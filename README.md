@@ -15,7 +15,7 @@ While ambitious and not completed, the project can boast:
   - Advanced HFSM-based AI
   
 **Team members:**
-Thahn Truong, Noah Jessup, Kibi Yip, Grigory Gogin, Wildan Tao
+Thanh Truong, Noah Jessup, Kibi Yip, Grigory Gogin, Wildan Tao
 
 **Engine:** Unity
 
